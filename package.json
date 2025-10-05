@@ -1,5 +1,6 @@
 {
   "name": "calories-counter",
+  "author": "Semen Bogdanov <webdevelopments@yandex.ru>",
   "version": "1.0.0",
   "description": "Проект на JavaScript «Счётчик калорий» от HTML Academy",
   "private": true,
